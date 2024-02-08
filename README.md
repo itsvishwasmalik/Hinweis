@@ -1,3 +1,5 @@
+![hinwies](https://github.com/itsvishwasmalik/Hinweis/assets/97444195/b6a52ea5-df19-48d3-8d04-449f5b963303)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -9,6 +11,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
